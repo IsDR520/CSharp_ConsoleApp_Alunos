@@ -1,0 +1,16 @@
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\bin\Debug\net5.0\Revisao.exe
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\bin\Debug\net5.0\Revisao.deps.json
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\bin\Debug\net5.0\Revisao.dll
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\bin\Debug\net5.0\Revisao.pdb
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\obj\Debug\net5.0\Revisao.dll
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\obj\Debug\net5.0\Revisao.pdb
+D:\Projetos\CSharp\DIO\CSharp\Notas\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
