@@ -41,7 +41,47 @@ namespace Revisao
                         };
                         break;
                     case "3":
-                        //TODO:calcular media geral
+                        decimal notaTotal = 0;
+                        var nrAlunos = 0;
+                        for (int i = 0; i < alunos.Length; i++)
+                        {
+                            if (string.IsNullOrEmpty(alunos[i].Nome))
+                            {
+                                notaTotal = notaTotal + alunos[i].Nota;
+                                nrAlunos++;
+                            };
+
+                            var mediaGeral = notaTotal / nrAlunos;
+                            ConceitoEnum conceitoGeral;
+                            if (mediaGeral < 4)
+                            {
+                                conceitoGeral = ConceitoEnum.E;
+
+                            }
+                            else if (mediaGeral < 5)
+                            {
+                                conceitoGeral = ConceitoEnum.D;
+
+                            }
+                            else if (mediaGeral < 7)
+                            {
+                                conceitoGeral = ConceitoEnum.C;
+
+                            }
+                            else if (mediaGeral < 8)
+                            {
+                                conceitoGeral = ConceitoEnum.B;
+
+                            }
+                            else
+                            {
+                                conceitoGeral = ConceitoEnum.A;
+
+                            }
+
+                            Console.WriteLine($"MÉDIA GERAL: {mediaGeral} - CONCEITO: {conceitoGeral}");
+
+                        }
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();
