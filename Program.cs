@@ -53,22 +53,22 @@ namespace Revisao
 
                             var mediaGeral = notaTotal / nrAlunos;
                             ConceitoEnum conceitoGeral;
-                            if (mediaGeral < 4)
+                            if (mediaGeral <= 4)
                             {
                                 conceitoGeral = ConceitoEnum.E;
 
                             }
-                            else if (mediaGeral < 5)
+                            else if (mediaGeral <= 5)
                             {
                                 conceitoGeral = ConceitoEnum.D;
 
                             }
-                            else if (mediaGeral < 7)
+                            else if (mediaGeral <= 7)
                             {
                                 conceitoGeral = ConceitoEnum.C;
 
                             }
-                            else if (mediaGeral < 8)
+                            else if (mediaGeral <= 8)
                             {
                                 conceitoGeral = ConceitoEnum.B;
 
